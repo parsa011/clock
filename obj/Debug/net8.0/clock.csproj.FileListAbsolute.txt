@@ -1,0 +1,14 @@
+/home/parsa/Desktop/googoojies/clock/bin/Debug/net8.0/clock
+/home/parsa/Desktop/googoojies/clock/bin/Debug/net8.0/clock.deps.json
+/home/parsa/Desktop/googoojies/clock/bin/Debug/net8.0/clock.runtimeconfig.json
+/home/parsa/Desktop/googoojies/clock/bin/Debug/net8.0/clock.dll
+/home/parsa/Desktop/googoojies/clock/bin/Debug/net8.0/clock.pdb
+/home/parsa/Desktop/googoojies/clock/obj/Debug/net8.0/clock.GeneratedMSBuildEditorConfig.editorconfig
+/home/parsa/Desktop/googoojies/clock/obj/Debug/net8.0/clock.AssemblyInfoInputs.cache
+/home/parsa/Desktop/googoojies/clock/obj/Debug/net8.0/clock.AssemblyInfo.cs
+/home/parsa/Desktop/googoojies/clock/obj/Debug/net8.0/clock.csproj.CoreCompileInputs.cache
+/home/parsa/Desktop/googoojies/clock/obj/Debug/net8.0/clock.dll
+/home/parsa/Desktop/googoojies/clock/obj/Debug/net8.0/refint/clock.dll
+/home/parsa/Desktop/googoojies/clock/obj/Debug/net8.0/clock.pdb
+/home/parsa/Desktop/googoojies/clock/obj/Debug/net8.0/clock.genruntimeconfig.cache
+/home/parsa/Desktop/googoojies/clock/obj/Debug/net8.0/ref/clock.dll
