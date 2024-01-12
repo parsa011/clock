@@ -6,7 +6,7 @@ Dictionary<string, string> countries = new()
 };
 
 KeyValuePair<string, string> country = new();
-if (args.Length == 1)
+if (args.Length == 0)
 {
     country = countries.First();
 }
